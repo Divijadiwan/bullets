@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Mario_3_5-main"
+		},
+		{
+			"path": "../boiler-plate-code-1-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project 20"
+	}
+}
